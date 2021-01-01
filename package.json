@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/steadyGuy/koa-template/issues"
   },
-  "homepage": "https://github.com/steadyGuy/koa-template#readme"
+  "homepage": "https://github.com/steadyGuy/koa-template#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
 }
