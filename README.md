@@ -1,2 +1,2 @@
 # koa-template
-A simple template for my applications on Koa
+Простой, минималистичный шаблон для создания RESTFUL API на KOA

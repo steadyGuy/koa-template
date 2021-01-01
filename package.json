@@ -1,0 +1,19 @@
+{
+  "name": "koa-template",
+  "version": "1.0.0",
+  "description": "koa template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steadyGuy/koa-template.git"
+  },
+  "author": "Yuriy Soproniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steadyGuy/koa-template/issues"
+  },
+  "homepage": "https://github.com/steadyGuy/koa-template#readme"
+}
